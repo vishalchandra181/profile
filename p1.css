@@ -1,0 +1,56 @@
+ *{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+ } 
+ .header{
+     letter-spacing:4px;
+     height:22vh;
+     display:flex;
+     align-items: center;
+     padding-left: 60px;
+     font-size: 60px;
+     background-color:#393E46;
+     font-family: 'Staatliches', cursive;
+     color:white;
+ }
+ .photo{
+     border:3px solid black;
+     height: 33vh;
+     border-radius: 10px;
+     
+
+     
+ }
+ .photo1{
+     height:33vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #962D2D;
+     padding:60px;
+ }
+ .m{
+     height:33vh;
+     background-color:#962D2D;
+     color:white;
+
+ }
+ .m1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 14vh;
+    font-family: 'Staatliches', cursive;
+    font-size: 35px;
+}
+.m2{
+    display: flex;
+    justify-content: center;
+    height: 16vh;
+    font-family: 'Staatliches', cursive;
+    font-size:35px;
+    font-weight:200px;
+}
